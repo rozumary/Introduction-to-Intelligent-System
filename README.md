@@ -11,6 +11,7 @@ Welcome to my own portfolio. Here are the compilations of the lectures, activiti
 2. [Exercises](#exercises)
 3. [Midterm Exam](#midterm-exam)
 4. [Conclusion](#conclusion)
+   
 ---
 
 - **Lecture Summary**
