@@ -32,7 +32,7 @@ you have a canvas, and Matplotlib provides you with brushes and colors to paint 
                 <br>
         <p style=text-align: left;">Basic Visualization Types: <br> 1. Line Charts <br> 2. Bar Graphs <br>3. Scatter Plots  </p>
                 <br>
-         <p style="font-weight: bold; text-align: left;">III.Probability and Statistics</p>
+         <p style="font-weight: bold; text-align: left;">III. Probability and Statistics</p>
         <p style=text-align: left;">Probability implies 'likelihood' or 'chance'. When an event is certain to happen then the probability of occurrence of that event is 1 and when it is certain that the event cannot happen then the probability of that event is 0. </p>
                 <br>
         <p style=text-align: left;">A random variable is a mathematical concept used to represent uncertain outcomes in probability and statistics. It's a variable that can take on different values with a certain probability associated with each value</p>
@@ -41,7 +41,7 @@ you have a canvas, and Matplotlib provides you with brushes and colors to paint 
                 <br>
         <p style=text-align: left;">Descriptive Statistics:<br> Mean (Average): It's the sum of all values divided by the number of values. <br> Median: It's the middle value when data is sorted, or the average of the two middle values if there's an even number of values. <br> Variance: It quantifies the spread or dispersion of data points from the mean. <br>Standard Deviation: It's the square root of the variance and measures the average deviation from the mean. </p>
                 <br>
-         <p style="font-weight: bold; text-align: left;">IV. Linear Regression</p>
+        <p style="font-weight: bold; text-align: left;">IV. Linear Regression</p>
         <p style=text-align: left;"> Linear Regression - a statistical method used in the field of data analysis and predictive modeling. It's particularly useful in understanding and modeling relationships between a dependent variable (target) and one or more independent variables (features or predictors). </p>
                 <br>
         <p style=text-align: left;">TWO TYPES:<br> 1. Dependent Variable - value depends on the values of other variables <br> 2. Independent Variable - the variable that you manipulate or examine to see how it affects the dependent variable </p>
@@ -50,8 +50,15 @@ you have a canvas, and Matplotlib provides you with brushes and colors to paint 
                 <br>
         <p style=text-align: left;">Fixing Violations of Assumptions: <br>• Transform variables, use weighted regression, or consider alternative models. <br>• Addressing violations ensures the reliability of your regression analysis. </p>
                 <br>
-        <p style="font-weight: bold; text-align: left;">Definition of Terms</p>
-        <p>Here you can add content related to the definitions of terms.</p>
+        <p style="font-weight: bold; text-align: left;">V. Logistic Regression</p>
+        <p style=text-align: left;"> Logistic Regression is a statistical technique used for predicting the outcome of a categorical dependent variable based on one or more predictor variables. <br> Logistic Regression is based on the concept of odds and log-odds. The odds of an event is the ratio of the probability of the event to its complement. The logistic model uses these odds, transformed via the logarithm, to predict the probability of the target class. </p>
+                <br>
+        <p style=text-align: left;">Model Evaluation Metrics: <br>"Evaluating the performance of a Logistic Regression model involves metrics such as Accuracy, Precision, Recall, and the F1 Score. The ROC Curve and AUC provide insights into the model's ability to distinguish between classes.</p>
+                <br>
+        <p style=text-align: left;">Applications of Logistic Regression:<br> a.Healthcare <br>b. Finance <br> c. Marketing <br> d. Social Sciences <br> e. Education <br> f. Human Resources g. E-commerce </p>
+                <br>
+       <h3 style="text-align: left; color: #000; margin-bottom: 20px;">Conclusion</h3>
+        <p style="text-align: left;">In conclusion, the lectures provided valuable insights into various aspects of artificial intelligence, data analysis, and statistical modeling. These topics are essential for understanding the fundamentals of intelligent systems and their applications in real-world scenarios.</p>
         <ul style="list-style-type: none; padding: 0; margin: 0;">
             <li style="margin-bottom: 10px;"><a href="" style="color: maroon; text-decoration: none; transition: color 0.3s ease;">Definition 6</a></li>
         </ul>
