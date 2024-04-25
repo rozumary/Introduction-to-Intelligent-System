@@ -27,8 +27,10 @@
                 <br>
         <p style=text-align: left;">Exploratory Data Analysis (EDA) a critical process in data analysis, and it serves as the initial step before diving into more indepth analysis or modeling.<br> EDA Methods - In essence, these EDA methods help you get a clear picture of your data, understand how it's spread out, see if there are any interesting connections or surprises, and spot anything that's quite different from the norm. It's like examining and exploring your collection of marbles to learn as much as possible about them.</p>
                 <br>
-        <p style=text-align: left;">Data Visualization Tools: 1. Matplotlib is like a versatile artist's toolkit for creating all sorts of charts and graphs. It's as if
+        <p style=text-align: left;">Data Visualization Tools: <br> 1. Matplotlib is like a versatile artist's toolkit for creating all sorts of charts and graphs. It's as if
 you have a canvas, and Matplotlib provides you with brushes and colors to paint your data. <br> 2. Seaborn is like a stylist that makes your data look fashionable. It's built on top of Matplotlib and adds some extra beauty and ease to your visualizations. </p>
+                <br>
+        <p style=text-align: left;">Basic Visualization Types: <br> 1. Line Charts <br> 2. Bar Graphs <br>3. Scatter Plots  </p>
                 <br>
         <p style="font-weight: bold; text-align: left;">Definition of Terms</p>
         <p>Here you can add content related to the definitions of terms.</p>
