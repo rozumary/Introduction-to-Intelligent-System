@@ -57,11 +57,6 @@ you have a canvas, and Matplotlib provides you with brushes and colors to paint 
                 <br>
         <p style=text-align: left;">Applications of Logistic Regression:<br> a.Healthcare <br>b. Finance <br> c. Marketing <br> d. Social Sciences <br> e. Education <br> f. Human Resources g. E-commerce </p>
                 <br>
-       <h3 style="text-align: left; color: #000; margin-bottom: 20px;">Conclusion</h3>
-        <p style="text-align: left;">In conclusion, the lectures provided valuable insights into various aspects of artificial intelligence, data analysis, and statistical modeling. These topics are essential for understanding the fundamentals of intelligent systems and their applications in real-world scenarios. The lectures have been helpful in enhancing my understanding of key concepts in artificial intelligence, data analysis, and statistical modeling. By understanding the fundamentals discussed in the lectures, I have been able to apply these concepts effectively in my exercises and midterm examination. For instance, the insights gained from the lectures on linear regression enabled me to analyze datasets and build predictive models for exercises, while the understanding of logistic regression empowered me to make informed decisions during the midterm exam. Overall, the lectures have not only enriched my theoretical knowledge but also provided practical skills that have proven invaluable in tackling various academic tasks.</p>
-        <ul style="list-style-type: none; padding: 0; margin: 0;">
-            <li style="margin-bottom: 10px;"><a href="" style="color: maroon; text-decoration: none; transition: color 0.3s ease;">Definition 6</a></li>
-        </ul>
         <p style="font-weight: bold; text-align: left;">Exercises</p>
         <ul style="list-style-type: none; padding: 0; margin: 0;">
             <li style="margin-bottom: 10px;"><a href="2A_MONTESA_EXER4.ipynb" style="color: maroon; text-decoration: none; transition: color 0.3s ease;">Exercise 4</a></li>
@@ -73,6 +68,9 @@ you have a canvas, and Matplotlib provides you with brushes and colors to paint 
         <ul style="list-style-type: none; padding: 0; margin: 0;">
             <li style="margin-bottom: 10px;"><a href="2A_MONTESA_MIDTERM.ipynb" style="color: maroon; text-decoration: none; transition: color 0.3s ease;">Midterm Exam</a></li>
         </ul>
+            <br>
+        <h3 style="text-align: left; color: #000; margin-bottom: 20px;">Conclusion</h3>
+        <p style="text-align: left;">In conclusion, the lectures provided valuable insights into various aspects of artificial intelligence, data analysis, and statistical modeling. These topics are essential for understanding the fundamentals of intelligent systems and their applications in real-world scenarios. The lectures have been helpful in enhancing my understanding of key concepts in artificial intelligence, data analysis, and statistical modeling. By understanding the fundamentals discussed in the lectures, I have been able to apply these concepts effectively in my exercises and midterm examination. For instance, the insights gained from the lectures on linear regression enabled me to analyze datasets and build predictive models for exercises, while the understanding of logistic regression empowered me to make informed decisions during the midterm exam. Overall, the lectures have not only enriched my theoretical knowledge but also provided practical skills that have proven invaluable in tackling various academic tasks.</p>
     </div>
 </body>
 </html>
