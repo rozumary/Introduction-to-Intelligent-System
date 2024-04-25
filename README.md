@@ -7,26 +7,35 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f8f9fa;
             color: #333;
             margin: 0;
             padding: 0;
+            background-image: url('background-image.jpg'); /* Replace 'background-image.jpg' with the path to your background image */
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
         }
         .container {
             max-width: 800px;
             margin: 20px auto;
             padding: 20px;
-            background-color: #fff;
+            background-color: rgba(255, 255, 255, 0.8); /* Add opacity to make the background image visible */
             border-radius: 8px;
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
         }
         h1 {
             text-align: center;
             color: #007bff;
+            margin-bottom: 20px;
+        }
+        p {
+            text-align: center;
+            margin-bottom: 30px;
         }
         ul {
             list-style-type: none;
             padding: 0;
+            margin: 0;
         }
         li {
             margin-bottom: 10px;
