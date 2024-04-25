@@ -1,6 +1,3 @@
-# CSEL-302
-Introduction to Intelligent System
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
