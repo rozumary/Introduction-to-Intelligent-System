@@ -1,10 +1,60 @@
 # CSEL-302
 Introduction to Intelligent System
 
-Welcome to my own portfolio. Here are the compilations of my activities and midterm during our laboratory classes.
-
-1. <a href  = "2A_MONTESA_EXER4.ipynb">Exercise 4</a>
-2. <a href  = "2A_MONTESA_EXER5.ipynb">Exercise 5</a>
-3. <a href  = "2A_MONTESA_EXER6.ipynb">Exercise 6</a>
-4. <a href  = "2A_MONTESA_EXER7.ipynb">Exercise 7</a>
-5. <a href  = "2A_MONTESA_MIDTERM.ipynb">Midterm Exam</a>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSEL-302 Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f9fa;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #007bff;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        a {
+            color: #007bff;
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+        a:hover {
+            color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>CSEL-302 Portfolio</h1>
+        <p>Welcome to my own portfolio. Here are the compilations of my activities and midterm during our laboratory classes:</p>
+        <ul>
+            <li><a href="2A_MONTESA_EXER4.ipynb">Exercise 4</a></li>
+            <li><a href="2A_MONTESA_EXER5.ipynb">Exercise 5</a></li>
+            <li><a href="2A_MONTESA_EXER6.ipynb">Exercise 6</a></li>
+            <li><a href="2A_MONTESA_EXER7.ipynb">Exercise 7</a></li>
+            <li><a href="2A_MONTESA_MIDTERM.ipynb">Midterm Exam</a></li>
+        </ul>
+    </div>
+</body>
+</html>
