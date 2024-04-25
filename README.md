@@ -10,17 +10,17 @@
         <p style="text-align: center; margin-bottom: 30px; color: #000;">Welcome to my own portfolio. Here are the compilations of the lectures, activities and midterm during our laboratory classes:</p>
         <h2 style="text-align: left; color: #000; margin-bottom: 20px;">Table of Contents</h2>
             <ul style="list-style-type: none; padding: 0; margin: 0;">
-            <li style="margin-bottom: 10px;"><a href="" style="color: maroon; text-decoration: none; transition: color 0.3s ease;">Lectures</a></li>
+            <li style="margin-bottom: 10px;"><a href="" style="color: maroon; text-decoration: none; transition: color 0.3s ease;">Lecture Summary</a></li>
             <li style="margin-bottom: 10px;"><a href="" style="color: maroon; text-decoration: none; transition: color 0.3s ease;">Exercises</a></li>
             <li style="margin-bottom: 10px;"><a href="" style="color: maroon; text-decoration: none; transition: color 0.3s ease;">Midterm Exam</a></li>
             <li style="margin-bottom: 10px;"><a href="" style="color: maroon; text-decoration: none; transition: color 0.3s ease;">Definition of Terms</a></li>
-        <h3 style="text-align: left; color: #000; margin-bottom: 20px;">Lectures</h3>
-        <p style="font-weight: bold; text-align: left;">I. Ai and Intelligent Systems</p>
+        <h3 style="text-align: left; color: #000; margin-bottom: 20px;">Lecture Summary</h3>
+        <p style="font-weight: bold; text-align: left;">I. AI and Intelligent Systems</p>
         <p style=text-align: left;">AI refers to the intelligence demonstrated by machines, as opposed to the natural intelligence possessed by humans and animals.</p>
                 <br>
-        <p style=text-align: left;">Types of Intelligent Systems: • Simple reflex agents: React directly to their environment based on predetermined rules. • Model-based reflex agents: Build internal models of the world to make decisions. • Goal-based agents: Have goals they aim to achieve and plan actions accordingly. • Utility-based agents: Select actions based on their expected utility or value. • Learning agents: Can learn from their experiences and improve their performance over time. • Social agents: Interact with other agents and their environment in a social setting.</p>
+        <p style=text-align: left;">Types of Intelligent Systems: <br>• Simple reflex agents: React directly to their environment based on predetermined rules. <br>• Model-based reflex agents: Build internal models of the world to make decisions. <br>• Goal-based agents: Have goals they aim to achieve and plan actions accordingly.<br> • Utility-based agents: Select actions based on their expected utility or value. <br>• Learning agents: Can learn from their experiences and improve their performance over time. <br>• Social agents: Interact with other agents and their environment in a social setting.</p>
                 <br>
-        <p style=text-align: left;">Characteristics of Intelligent Systems: Intelligent agents exhibit several key characteristics: • Reactivity: Perceive their environment and respond to changes. • Proactiveness: Take initiative and adapt their behavior to achieve goals. • Socialability: Interact with other agents and their environment in a social context. • Adaptability: Learn and adjust their behavior based on new information and experiences. • Rationality: Make decisions that maximize their chances of success.</p>
+        <p style=text-align: left;">Characteristics of Intelligent Systems: Intelligent agents exhibit several key characteristics: <br>• Reactivity: Perceive their environment and respond to changes. <br>• Proactiveness: Take initiative and adapt their behavior to achieve goals. <br>• Socialability: Interact with other agents and their environment in a social context. <br>• Adaptability: Learn and adjust their behavior based on new information and experiences. <br>• Rationality: Make decisions that maximize their chances of success.</p>
                 <br>
         <p style="font-weight: bold; text-align: left;">Definition of Terms</p>
         <p>Here you can add content related to the definitions of terms.</p>
