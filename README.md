@@ -41,7 +41,7 @@ Welcome to my own portfolio. Here are the compilations of the lectures, activiti
 
       EDA Methods - In essence, these EDA methods help you get a clear picture of your data, understand how it's spread out, see if there are any interesting connections or surprises, and spot anything that's quite different from the norm. It's like examining and exploring your collection of marbles to learn as much as possible about them.
       
-**    -Data Visualization Tools:**
+-Data Visualization Tools:
       1. Matplotlib is like a versatile artist's toolkit for creating all sorts of charts and graphs. It's as if you have a canvas, and Matplotlib provides you with brushes and colors to paint your data.
       2. Seaborn is like a stylist that makes your data look fashionable. It's built on top of Matplotlib and adds some extra beauty and ease to your visualizations.
          
@@ -59,7 +59,7 @@ Welcome to my own portfolio. Here are the compilations of the lectures, activiti
       - Binomial Distribution: Applicable when there are only two possible outcomes (e.g., success or failure).
       - Normal Distribution (Gaussian Distribution): Commonly observed in natural phenomena and real-world data.
         
-    -** Descriptive Statistics:**
+    - Descriptive Statistics:
       - Mean (Average): It's the sum of all values divided by the number of values.
       - Median: It's the middle value when data is sorted, or the average of the two middle values if there's an even number of values.
       - Variance: It quantifies the spread or dispersion of data points from the mean.
@@ -68,7 +68,7 @@ Welcome to my own portfolio. Here are the compilations of the lectures, activiti
   - **IV. Linear Regression**
     - **Linear Regression** - a statistical method used in the field of data analysis and predictive modeling. It's particularly useful in understanding and modeling relationships between a dependent variable (target) and one or more independent variables (features or predictors).
       
-    -** TWO TYPES:**
+    -TWO TYPES:
       1. Dependent Variable - value depends on the values of other variables
       2. Independent Variable - the variable that you manipulate or examine to see how it affects the dependent variable
          
@@ -87,7 +87,7 @@ Welcome to my own portfolio. Here are the compilations of the lectures, activiti
     - **Model Evaluation Metrics:**
       - Evaluating the performance of a Logistic Regression model involves metrics such as Accuracy, Precision, Recall, and the F1 Score. The ROC Curve and AUC provide insights into the model's ability to distinguish between classes.
         
-    -** Applications of Logistic Regression:**
+    -Applications of Logistic Regression:
       - Healthcare
       - Finance
       - Marketing
@@ -97,8 +97,8 @@ Welcome to my own portfolio. Here are the compilations of the lectures, activiti
       - E-commerce
 
 ---
-#exercises
- **Exercises**
+
+ [Exercises](#exercises)
 1. <a href  = "2A_MONTESA_EXER4.ipynb">Exercise 4</a>
 2. <a href  = "2A_MONTESA_EXER5.ipynb">Exercise 5</a>
 3. <a href  = "2A_MONTESA_EXER6.ipynb">Exercise 6</a>
@@ -106,7 +106,7 @@ Welcome to my own portfolio. Here are the compilations of the lectures, activiti
 
 ---
 
- **Midterm Exam**
+[Midterm Exam](#midterm-exam)
 5. <a href  = "2A_MONTESA_MIDTERM.ipynb">Midterm Exam</a>
 
 ---
