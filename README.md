@@ -7,10 +7,10 @@ Apologies for the oversight. Here's the complete content of your webpage, includ
 Welcome to my own portfolio. Here are the compilations of the lectures, activities, and midterm during our laboratory classes:
 
 **Table of Contents**
-Lecture Summary
-Exercises
-Midterm Exam
-Conclusion
+1. [Lecture Summary](#lecture-summary)
+2. [Exercises](#exercises)
+3. [Midterm Exam](#midterm-exam)
+4. [Conclusion](#conclusion)
 ---
 
 - **Lecture Summary**
