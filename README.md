@@ -107,6 +107,7 @@ Welcome to my own portfolio. Here are the compilations of the lectures, activiti
 ---
 
 **Midterm**
+
 5. <a href  = "2A_MONTESA_MIDTERM.ipynb">Midterm Exam</a>
 
 ---
