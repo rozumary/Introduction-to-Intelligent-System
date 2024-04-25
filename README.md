@@ -15,6 +15,7 @@ Welcome to my own portfolio. Here are the compilations of the lectures, activiti
 ---
 
 - **Lecture Summary**
+  
   - **I. AI and Intelligent Systems**
     - **AI** refers to the intelligence demonstrated by machines, as opposed to the natural intelligence possessed by humans and animals.
     - **Types of Intelligent Systems:**
@@ -84,12 +85,11 @@ Welcome to my own portfolio. Here are the compilations of the lectures, activiti
 2. <a href  = "2A_MONTESA_EXER5.ipynb">Exercise 5</a>
 3. <a href  = "2A_MONTESA_EXER6.ipynb">Exercise 6</a>
 4. <a href  = "2A_MONTESA_EXER7.ipynb">Exercise 7</a>
-5. <a href  = "2A_MONTESA_MIDTERM.ipynb">Midterm Exam</a>
 
 ---
 
  **Midterm Exam**
-  - Midterm Exam
+5. <a href  = "2A_MONTESA_MIDTERM.ipynb">Midterm Exam</a>
 
 ---
 **Conclusion**
