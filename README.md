@@ -22,6 +22,14 @@
                 <br>
         <p style=text-align: left;">Characteristics of Intelligent Systems: Intelligent agents exhibit several key characteristics: <br>• Reactivity: Perceive their environment and respond to changes. <br>• Proactiveness: Take initiative and adapt their behavior to achieve goals. <br>• Socialability: Interact with other agents and their environment in a social context. <br>• Adaptability: Learn and adjust their behavior based on new information and experiences. <br>• Rationality: Make decisions that maximize their chances of success.</p>
                 <br>
+           <p style="font-weight: bold; text-align: left;">II. Data Analysis and Visualization</p>
+        <p style=text-align: left;">Data collection is the process of gathering information. Just like collecting different types of toys or stamps, data collection involves bringing together pieces of information from various sources. <br> Data preprocessing is the process of getting your data ready for analysis or machine learning by cleaning, organizing, and formatting it. </p>
+                <br>
+        <p style=text-align: left;">Exploratory Data Analysis (EDA) a critical process in data analysis, and it serves as the initial step before diving into more indepth analysis or modeling.<br> EDA Methods - In essence, these EDA methods help you get a clear picture of your data, understand how it's spread out, see if there are any interesting connections or surprises, and spot anything that's quite different from the norm. It's like examining and exploring your collection of marbles to learn as much as possible about them.</p>
+                <br>
+        <p style=text-align: left;">Data Visualization Tools: 1. Matplotlib is like a versatile artist's toolkit for creating all sorts of charts and graphs. It's as if
+you have a canvas, and Matplotlib provides you with brushes and colors to paint your data. <br> 2. Seaborn is like a stylist that makes your data look fashionable. It's built on top of Matplotlib and adds some extra beauty and ease to your visualizations. </p>
+                <br>
         <p style="font-weight: bold; text-align: left;">Definition of Terms</p>
         <p>Here you can add content related to the definitions of terms.</p>
         <ul style="list-style-type: none; padding: 0; margin: 0;">
