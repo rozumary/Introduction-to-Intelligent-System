@@ -1,76 +1,98 @@
+Apologies for the oversight. Here's the complete content of your webpage, including the continued content:
 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body style="font-family: 'Gill Sans', sans-serif; color: #000; margin: 0; padding: 0; background-color: #fff;">
-    <div style="max-width: 1000px; margin: 40px auto; padding: 40px; background-color: #f2f2f2; border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-        <h1 style="text-align: center; color: #000; margin-bottom: 20px;">CSEL-302 Portfolio</h1>
-        <p style="text-align: center; margin-bottom: 30px; color: #000;">Welcome to my own portfolio. Here are the compilations of the lectures, activities and midterm during our laboratory classes:</p>
-        <h2 style="text-align: left; color: #000; margin-bottom: 20px;">Table of Contents</h2>
-            <ul style="list-style-type: none; padding: 0; margin: 0;">
-            <li style="margin-bottom: 10px;"><a href="" style="color: maroon; text-decoration: none; transition: color 0.3s ease;">Lecture Summary</a></li>
-            <li style="margin-bottom: 10px;"><a href="" style="color: maroon; text-decoration: none; transition: color 0.3s ease;">Exercises</a></li>
-            <li style="margin-bottom: 10px;"><a href="" style="color: maroon; text-decoration: none; transition: color 0.3s ease;">Midterm Exam</a></li>
-            <li style="margin-bottom: 10px;"><a href="" style="color: maroon; text-decoration: none; transition: color 0.3s ease;">Definition of Terms</a></li>
-        <h3 style="text-align: left; color: #000; margin-bottom: 20px;">Lecture Summary</h3>
-        <h3 style="text-align: left; color: #000; margin-bottom: 20px; font-weight: bold;">I. AI and Intelligent Systems</h3>
-        <p style=text-align: left;">AI refers to the intelligence demonstrated by machines, as opposed to the natural intelligence possessed by humans and animals.</p>
-                <br>
-        <p style=text-align: left;">Types of Intelligent Systems: <br>• Simple reflex agents: React directly to their environment based on predetermined rules. <br>• Model-based reflex agents: Build internal models of the world to make decisions. <br>• Goal-based agents: Have goals they aim to achieve and plan actions accordingly.<br> • Utility-based agents: Select actions based on their expected utility or value. <br>• Learning agents: Can learn from their experiences and improve their performance over time. <br>• Social agents: Interact with other agents and their environment in a social setting.</p>
-                <br>
-        <p style=text-align: left;">Characteristics of Intelligent Systems: Intelligent agents exhibit several key characteristics: <br>• Reactivity: Perceive their environment and respond to changes. <br>• Proactiveness: Take initiative and adapt their behavior to achieve goals. <br>• Socialability: Interact with other agents and their environment in a social context. <br>• Adaptability: Learn and adjust their behavior based on new information and experiences. <br>• Rationality: Make decisions that maximize their chances of success.</p>
-                <br>
-        <h3 style="text-align: left; color: #000; margin-bottom: 20px; font-weight: bold;">II. Data Analysis and Visualization</h3>
-        <p style=text-align: left;">Data collection is the process of gathering information. Just like collecting different types of toys or stamps, data collection involves bringing together pieces of information from various sources. <br> Data preprocessing is the process of getting your data ready for analysis or machine learning by cleaning, organizing, and formatting it. </p>
-                <br>
-        <p style=text-align: left;">Exploratory Data Analysis (EDA) a critical process in data analysis, and it serves as the initial step before diving into more indepth analysis or modeling.<br> EDA Methods - In essence, these EDA methods help you get a clear picture of your data, understand how it's spread out, see if there are any interesting connections or surprises, and spot anything that's quite different from the norm. It's like examining and exploring your collection of marbles to learn as much as possible about them.</p>
-                <br>
-        <p style=text-align: left;">Data Visualization Tools: <br> 1. Matplotlib is like a versatile artist's toolkit for creating all sorts of charts and graphs. It's as if
-you have a canvas, and Matplotlib provides you with brushes and colors to paint your data. <br> 2. Seaborn is like a stylist that makes your data look fashionable. It's built on top of Matplotlib and adds some extra beauty and ease to your visualizations. </p>
-                <br>
-        <p style=text-align: left;">Basic Visualization Types: <br> 1. Line Charts <br> 2. Bar Graphs <br>3. Scatter Plots  </p>
-                <br>
-      <h3 style="text-align: left; color: #000; margin-bottom: 20px; font-weight: bold;">III. Probability and Statistics</h3>
-        <p style=text-align: left;">Probability implies 'likelihood' or 'chance'. When an event is certain to happen then the probability of occurrence of that event is 1 and when it is certain that the event cannot happen then the probability of that event is 0. </p>
-                <br>
-        <p style=text-align: left;">A random variable is a mathematical concept used to represent uncertain outcomes in probability and statistics. It's a variable that can take on different values with a certain probability associated with each value</p>
-                <br>
-        <p style=text-align: left;">Types of Probability Distributions:<br> Binomial Distribution: Applicable when there are only two possible outcomes (e.g., success or failure). <br> Normal Distribution (Gaussian Distribution):  Commonly observed in natural phenomena and real-world data. </p>
-                <br>
-        <p style=text-align: left;">Descriptive Statistics:<br> Mean (Average): It's the sum of all values divided by the number of values. <br> Median: It's the middle value when data is sorted, or the average of the two middle values if there's an even number of values. <br> Variance: It quantifies the spread or dispersion of data points from the mean. <br>Standard Deviation: It's the square root of the variance and measures the average deviation from the mean. </p>
-                <br>
-        <h3 style="text-align: left; color: #000; margin-bottom: 20px; font-weight: bold;">IV. Linear Regression</h3>
-        <p style=text-align: left;"> Linear Regression - a statistical method used in the field of data analysis and predictive modeling. It's particularly useful in understanding and modeling relationships between a dependent variable (target) and one or more independent variables (features or predictors). </p>
-                <br>
-        <p style=text-align: left;">TWO TYPES:<br> 1. Dependent Variable - value depends on the values of other variables <br> 2. Independent Variable - the variable that you manipulate or examine to see how it affects the dependent variable </p>
-                <br>
-        <p style=text-align: left;">Types of Errors in Linear Regression:<br> • Residuals: The difference between the observed and predicted values. <br>• Mean Squared Error (MSE): A measure of the average squared difference between observed and predicted values. <br>• Root Mean Squared Error (RMSE): The square root of MSE, providing a more interpretable measure of error. </p>
-                <br>
-        <p style=text-align: left;">Fixing Violations of Assumptions: <br>• Transform variables, use weighted regression, or consider alternative models. <br>• Addressing violations ensures the reliability of your regression analysis. </p>
-                <br>
-        <h3 style="text-align: left; color: #000; margin-bottom: 20px; font-weight: bold;">V. Logistic Regression</h3>
-        <p style=text-align: left;"> Logistic Regression is a statistical technique used for predicting the outcome of a categorical dependent variable based on one or more predictor variables. <br> Logistic Regression is based on the concept of odds and log-odds. The odds of an event is the ratio of the probability of the event to its complement. The logistic model uses these odds, transformed via the logarithm, to predict the probability of the target class. </p>
-                <br>
-        <p style=text-align: left;">Model Evaluation Metrics: <br>"Evaluating the performance of a Logistic Regression model involves metrics such as Accuracy, Precision, Recall, and the F1 Score. The ROC Curve and AUC provide insights into the model's ability to distinguish between classes.</p>
-                <br>
-        <p style=text-align: left;">Applications of Logistic Regression:<br> a.Healthcare <br>b. Finance <br> c. Marketing <br> d. Social Sciences <br> e. Education <br> f. Human Resources g. E-commerce </p>
-                <br>
-        <h3 style="text-align: left; color: #000; margin-bottom: 20px; font-weight: bold;">EXERCISES</h3>
-        <ul style="list-style-type: none; padding: 0; margin: 0;">
-            <li style="margin-bottom: 10px;"><a href="2A_MONTESA_EXER4.ipynb" style="color: maroon; text-decoration: none; transition: color 0.3s ease;">Exercise 4</a></li>
-            <li style="margin-bottom: 10px;"><a href="2A_MONTESA_EXER5.ipynb" style="color: maroon; text-decoration: none; transition: color 0.3s ease;">Exercise 5</a></li>
-            <li style="margin-bottom: 10px;"><a href="2A_MONTESA_EXER6.ipynb" style="color: maroon; text-decoration: none; transition: color 0.3s ease;">Exercise 6</a></li>
-            <li style="margin-bottom: 10px;"><a href="2A_MONTESA_EXER7.ipynb" style="color: maroon; text-decoration: none; transition: color 0.3s ease;">Exercise 7</a></li>
-        </ul>
-       <h3 style="text-align: left; color: #000; margin-bottom: 20px; font-weight: bold;">MIDTERM EXAM</h3>
-        <ul style="list-style-type: none; padding: 0; margin: 0;">
-            <li style="margin-bottom: 10px;"><a href="2A_MONTESA_MIDTERM.ipynb" style="color: maroon; text-decoration: none; transition: color 0.3s ease;">Midterm Exam</a></li>
-        </ul>
-            <br>
-        <h3 style="text-align: left; color: #000; margin-bottom: 20px;">Conclusion</h3>
-        <p style="text-align: left;">In conclusion, the lectures provided valuable insights into various aspects of artificial intelligence, data analysis, and statistical modeling. These topics are essential for understanding the fundamentals of intelligent systems and their applications in real-world scenarios. The lectures have been helpful in enhancing my understanding of key concepts in artificial intelligence, data analysis, and statistical modeling. By understanding the fundamentals discussed in the lectures, I have been able to apply these concepts effectively in my exercises and midterm examination. For instance, the insights gained from the lectures on linear regression enabled me to analyze datasets and build predictive models for exercises, while the understanding of logistic regression empowered me to make informed decisions during the midterm exam. Overall, the lectures have not only enriched my theoretical knowledge but also provided practical skills that have proven invaluable in tackling various academic tasks.</p>
-    </div>
-</body>
-</html>
+---
+
+**CSEL-302 Portfolio**
+
+Welcome to my own portfolio. Here are the compilations of the lectures, activities, and midterm during our laboratory classes:
+
+**Table of Contents**
+Lecture Summary
+Exercises
+Midterm Exam
+Conclusion
+---
+
+- **Lecture Summary**
+  - **I. AI and Intelligent Systems**
+    - **AI** refers to the intelligence demonstrated by machines, as opposed to the natural intelligence possessed by humans and animals.
+    - **Types of Intelligent Systems:**
+      - Simple reflex agents: React directly to their environment based on predetermined rules.
+      - Model-based reflex agents: Build internal models of the world to make decisions.
+      - Goal-based agents: Have goals they aim to achieve and plan actions accordingly.
+      - Utility-based agents: Select actions based on their expected utility or value.
+      - Learning agents: Can learn from their experiences and improve their performance over time.
+      - Social agents: Interact with other agents and their environment in a social setting.
+      - 
+    - **Characteristics of Intelligent Systems:** Intelligent agents exhibit several key characteristics:
+      - Reactivity: Perceive their environment and respond to changes.
+      - Proactiveness: Take initiative and adapt their behavior to achieve goals.
+      - Socialability: Interact with other agents and their environment in a social context.
+      - Adaptability: Learn and adjust their behavior based on new information and experiences.
+      - Rationality: Make decisions that maximize their chances of success.
+  - **II. Data Analysis and Visualization**
+    - Data collection is the process of gathering information. Just like collecting different types of toys or stamps, data collection involves bringing together pieces of information from various sources. Data preprocessing is the process of getting your data ready for analysis or machine learning by cleaning, organizing, and formatting it.
+    -** Exploratory Data Analysis (EDA)** a critical process in data analysis, and it serves as the initial step before diving into more indepth analysis or modeling. EDA Methods - In essence, these EDA methods help you get a clear picture of your data, understand how it's spread out, see if there are any interesting connections or surprises, and spot anything that's quite different from the norm. It's like examining and exploring your collection of marbles to learn as much as possible about them.
+    -** Data Visualization Tools:**
+      1. Matplotlib is like a versatile artist's toolkit for creating all sorts of charts and graphs. It's as if you have a canvas, and Matplotlib provides you with brushes and colors to paint your data.
+      2. Seaborn is like a stylist that makes your data look fashionable. It's built on top of Matplotlib and adds some extra beauty and ease to your visualizations.
+    - Basic Visualization Types:
+      1. Line Charts
+      2. Bar Graphs
+      3. Scatter Plots
+  - **III. Probability and Statistics**
+    - Probability implies 'likelihood' or 'chance'. When an event is certain to happen then the probability of occurrence of that event is 1 and when it is certain that the event cannot happen then the probability of that event is 0.
+    - A random variable is a mathematical concept used to represent uncertain outcomes in probability and statistics. It's a variable that can take on different values with a certain probability associated with each value.
+    - **Types of Probability Distributions:**
+      - Binomial Distribution: Applicable when there are only two possible outcomes (e.g., success or failure).
+      - Normal Distribution (Gaussian Distribution): Commonly observed in natural phenomena and real-world data.
+    -** Descriptive Statistics:**
+      - Mean (Average): It's the sum of all values divided by the number of values.
+      - Median: It's the middle value when data is sorted, or the average of the two middle values if there's an even number of values.
+      - Variance: It quantifies the spread or dispersion of data points from the mean.
+      - Standard Deviation: It's the square root of the variance and measures the average deviation from the mean.
+  - **IV. Linear Regression**
+    - **Linear Regression** - a statistical method used in the field of data analysis and predictive modeling. It's particularly useful in understanding and modeling relationships between a dependent variable (target) and one or more independent variables (features or predictors).
+    -** TWO TYPES:**
+      1. Dependent Variable - value depends on the values of other variables
+      2. Independent Variable - the variable that you manipulate or examine to see how it affects the dependent variable
+    - **Types of Errors in Linear Regression:**
+      - Residuals: The difference between the observed and predicted values.
+      - Mean Squared Error (MSE): A measure of the average squared difference between observed and predicted values.
+      - Root Mean Squared Error (RMSE): The square root of MSE, providing a more interpretable measure of error.
+    - **Fixing Violations of Assumptions:**
+      - Transform variables, use weighted regression, or consider alternative models.
+      - Addressing violations ensures the reliability of your regression analysis.
+  - **V. Logistic Regression**
+    - **Logistic Regression** is a statistical technique used for predicting the outcome of a categorical dependent variable based on one or more predictor variables. Logistic Regression is based on the concept of odds and log-odds. The odds of an event are the ratio of the probability of the event to its complement. The logistic model uses these odds, transformed via the logarithm, to predict the probability of the target class.
+    - **Model Evaluation Metrics:**
+      - Evaluating the performance of a Logistic Regression model involves metrics such as Accuracy, Precision, Recall, and the F1 Score. The ROC Curve and AUC provide insights into the model's ability to distinguish between classes.
+    -** Applications of Logistic Regression:**
+      - Healthcare
+      - Finance
+      - Marketing
+      - Social Sciences
+      - Education
+      - Human Resources
+      - E-commerce
+
+---
+
+ **Exercises**
+1. <a href  = "2A_MONTESA_EXER4.ipynb">Exercise 4</a>
+2. <a href  = "2A_MONTESA_EXER5.ipynb">Exercise 5</a>
+3. <a href  = "2A_MONTESA_EXER6.ipynb">Exercise 6</a>
+4. <a href  = "2A_MONTESA_EXER7.ipynb">Exercise 7</a>
+5. <a href  = "2A_MONTESA_MIDTERM.ipynb">Midterm Exam</a>
+
+---
+
+ **Midterm Exam**
+  - Midterm Exam
+
+---
+**Conclusion**
+
+In conclusion, the lectures provided valuable insights into various aspects of artificial intelligence, data analysis, and statistical modeling. These topics are essential for understanding the fundamentals of intelligent systems and their applications in real-world scenarios. The lectures have been helpful in enhancing my understanding of key concepts in artificial intelligence, data analysis, and statistical modeling. By understanding the fundamentals discussed in the lectures, I have been able to apply these concepts effectively in my exercises and midterm examination. For instance, the insights gained from the lectures on linear regression enabled me to analyze datasets and build predictive models for exercises, while the understanding of logistic regression empowered me to make informed decisions during the midterm exam. Overall, the lectures have not only enriched my theoretical knowledge but also provided practical skills that have proven invaluable in tackling various academic tasks.
+
+---
