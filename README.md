@@ -57,14 +57,14 @@ you have a canvas, and Matplotlib provides you with brushes and colors to paint 
                 <br>
         <p style=text-align: left;">Applications of Logistic Regression:<br> a.Healthcare <br>b. Finance <br> c. Marketing <br> d. Social Sciences <br> e. Education <br> f. Human Resources g. E-commerce </p>
                 <br>
-        <p style="font-weight: bold; text-align: left;">Exercises</p>
+        <h3 style="text-align: left; color: #000; margin-bottom: 20px; font-weight: bold;">EXERCISES</h3>
         <ul style="list-style-type: none; padding: 0; margin: 0;">
             <li style="margin-bottom: 10px;"><a href="2A_MONTESA_EXER4.ipynb" style="color: maroon; text-decoration: none; transition: color 0.3s ease;">Exercise 4</a></li>
             <li style="margin-bottom: 10px;"><a href="2A_MONTESA_EXER5.ipynb" style="color: maroon; text-decoration: none; transition: color 0.3s ease;">Exercise 5</a></li>
             <li style="margin-bottom: 10px;"><a href="2A_MONTESA_EXER6.ipynb" style="color: maroon; text-decoration: none; transition: color 0.3s ease;">Exercise 6</a></li>
             <li style="margin-bottom: 10px;"><a href="2A_MONTESA_EXER7.ipynb" style="color: maroon; text-decoration: none; transition: color 0.3s ease;">Exercise 7</a></li>
         </ul>
-        <p style="font-weight: bold; text-align: left;">Midterm Exam</p>
+       <h3 style="text-align: left; color: #000; margin-bottom: 20px; font-weight: bold;">MIDTERM EXAM</h3>
         <ul style="list-style-type: none; padding: 0; margin: 0;">
             <li style="margin-bottom: 10px;"><a href="2A_MONTESA_MIDTERM.ipynb" style="color: maroon; text-decoration: none; transition: color 0.3s ease;">Midterm Exam</a></li>
         </ul>
