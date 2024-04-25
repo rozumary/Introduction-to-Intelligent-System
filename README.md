@@ -1,4 +1,3 @@
-Apologies for the oversight. Here's the complete content of your webpage, including the continued content:
 
 ---
 
