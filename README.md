@@ -9,11 +9,11 @@
         <h1 style="text-align: center; color: #000; margin-bottom: 20px;">CSEL-302 Portfolio</h1>
         <p style="text-align: center; margin-bottom: 30px; color: #000;">Welcome to my own portfolio. Here are the compilations of my activities and midterm during our laboratory classes:</p>
         <ul style="list-style-type: none; padding: 0; margin: 0;">
-            <li style="margin-bottom: 10px;"><a href="2A_MONTESA_EXER4.ipynb" style="color: #000; text-decoration: none; transition: color 0.3s ease;">Exercise 4</a></li>
-            <li style="margin-bottom: 10px;"><a href="2A_MONTESA_EXER5.ipynb" style="color: #000; text-decoration: none; transition: color 0.3s ease;">Exercise 5</a></li>
-            <li style="margin-bottom: 10px;"><a href="2A_MONTESA_EXER6.ipynb" style="color: #000; text-decoration: none; transition: color 0.3s ease;">Exercise 6</a></li>
-            <li style="margin-bottom: 10px;"><a href="2A_MONTESA_EXER7.ipynb" style="color: #000; text-decoration: none; transition: color 0.3s ease;">Exercise 7</a></li>
-            <li style="margin-bottom: 10px;"><a href="2A_MONTESA_MIDTERM.ipynb" style="color: #000; text-decoration: none; transition: color 0.3s ease;">Midterm Exam</a></li>
+            <li style="margin-bottom: 10px;"><a href="2A_MONTESA_EXER4.ipynb" style="color: maroon; text-decoration: none; transition: color 0.3s ease;">Exercise 4</a></li>
+            <li style="margin-bottom: 10px;"><a href="2A_MONTESA_EXER5.ipynb" style="color: maroon; text-decoration: none; transition: color 0.3s ease;">Exercise 5</a></li>
+            <li style="margin-bottom: 10px;"><a href="2A_MONTESA_EXER6.ipynb" style="color: maroon; text-decoration: none; transition: color 0.3s ease;">Exercise 6</a></li>
+            <li style="margin-bottom: 10px;"><a href="2A_MONTESA_EXER7.ipynb" style="color: maroon; text-decoration: none; transition: color 0.3s ease;">Exercise 7</a></li>
+            <li style="margin-bottom: 10px;"><a href="2A_MONTESA_MIDTERM.ipynb" style="color: maroon; text-decoration: none; transition: color 0.3s ease;">Midterm Exam</a></li>
         </ul>
     </div>
 </body>
