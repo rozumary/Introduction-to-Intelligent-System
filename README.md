@@ -14,7 +14,8 @@
             <li style="margin-bottom: 10px;"><a href="" style="color: maroon; text-decoration: none; transition: color 0.3s ease;">Exercises</a></li>
             <li style="margin-bottom: 10px;"><a href="" style="color: maroon; text-decoration: none; transition: color 0.3s ease;">Midterm Exam</a></li>
             <li style="margin-bottom: 10px;"><a href="" style="color: maroon; text-decoration: none; transition: color 0.3s ease;">Definition of Terms</a></li>
-        <p style="font-weight: bold; text-align: left;">Lectures</p>
+        <h3 style="text-align: left; color: #000; margin-bottom: 20px;">Lectures</h3>
+        <p style="font-weight: bold; text-align: left;"></p>
         <ul style="list-style-type: none; padding: 0; margin: 0;">
             <li style="margin-bottom: 10px;"><a href="" style="color: maroon; text-decoration: none; transition: color 0.3s ease;">Lecture 5</a></li>
         </ul>
