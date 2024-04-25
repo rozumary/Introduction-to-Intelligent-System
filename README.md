@@ -32,6 +32,15 @@ you have a canvas, and Matplotlib provides you with brushes and colors to paint 
                 <br>
         <p style=text-align: left;">Basic Visualization Types: <br> 1. Line Charts <br> 2. Bar Graphs <br>3. Scatter Plots  </p>
                 <br>
+         <p style="font-weight: bold; text-align: left;">III.Peobability and Statistics</p>
+        <p style=text-align: left;">Probability implies 'likelihood' or 'chance'. When an event is certain to happen then the probability of occurrence of that event is 1 and when it is certain that the event cannot happen then the probability of that event is 0. </p>
+                <br>
+        <p style=text-align: left;">A random variable is a mathematical concept used to represent uncertain outcomes in probability and statistics. It's a variable that can take on different values with a certain probability associated with each value</p>
+                <br>
+        <p style=text-align: left;">Types of Probability Distributions:<br> Binomial Distribution: Applicable when there are only two possible outcomes (e.g., success or failure). <br> Normal Distribution (Gaussian Distribution):  Commonly observed in natural phenomena and real-world data. </p>
+                <br>
+        <p style=text-align: left;">Descriptive Statistics:<br> Mean (Average): It's the sum of all values divided by the number of values. <br> Median: It's the middle value when data is sorted, or the average of the two middle values if there's an even number of values. <br> Variance: It quantifies the spread or dispersion of data points from the mean. <br>Standard Deviation: It's the square root of the variance and measures the average deviation from the mean. </p>
+                <br>
         <p style="font-weight: bold; text-align: left;">Definition of Terms</p>
         <p>Here you can add content related to the definitions of terms.</p>
         <ul style="list-style-type: none; padding: 0; margin: 0;">
