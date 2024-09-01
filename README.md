@@ -36,7 +36,7 @@ Welcome to my own portfolio. Here are the compilations of the lectures, activiti
   - **II. Data Analysis and Visualization**
     - Data collection is the process of gathering information. Just like collecting different types of toys or stamps, data collection involves bringing together pieces of information from various sources. Data preprocessing is the process of getting your data ready for analysis or machine learning by cleaning, organizing, and formatting it.
      
-   -** Exploratory Data Analysis (EDA)** - a critical process in data analysis, and it serves as the initial step before diving into more indepth analysis or modeling.
+   **Exploratory Data Analysis (EDA)** - a critical process in data analysis, and it serves as the initial step before diving into more indepth analysis or modeling.
 
       EDA Methods - In essence, these EDA methods help you get a clear picture of your data, understand how it's spread out, see if there are any interesting connections or surprises, and spot anything that's quite different from the norm. It's like examining and exploring your collection of marbles to learn as much as possible about them.
       
