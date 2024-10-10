@@ -34,16 +34,16 @@ Welcome to my own portfolio. Here are the compilations of the lectures, activiti
 
 
   - **II. Data Analysis and Visualization**
-    - Data collection is the process of gathering information. Just like collecting different types of toys or stamps, data collection involves bringing together pieces of information from various sources. Data preprocessing is the process of getting your data ready for analysis or machine learning by cleaning, organizing, and formatting it.
+    - Data collection is the process of gathering information.Data preprocessing is the process of getting your data ready for analysis or machine learning by cleaning, organizing, and formatting it.
      
    **Exploratory Data Analysis (EDA)** - a critical process in data analysis, and it serves as the initial step before diving into more indepth analysis or modeling.
 
-      EDA Methods - In essence, these EDA methods help you get a clear picture of your data, understand how it's spread out, see if there are any interesting connections or surprises, and spot anything that's quite different from the norm. It's like examining and exploring your collection of marbles to learn as much as possible about them.
+      EDA Methods - In essence, these EDA methods help you get a clear picture of your data, understand how it's spread out, see if there are any interesting connections or surprises, and spot anything that's quite different from the norm. 
       
 -Data Visualization Tools:
-      1. Matplotlib is like a versatile artist's toolkit for creating all sorts of charts and graphs. It's as if you have a canvas, and Matplotlib provides you with brushes and colors to paint your data.
-      2. Seaborn is like a stylist that makes your data look fashionable. It's built on top of Matplotlib and adds some extra beauty and ease to your visualizations.
-         
+      1. Matplotlib 
+      2. Seaborn 
+
     - Basic Visualization Types:
       1. Line Charts
       2. Bar Graphs
@@ -115,6 +115,6 @@ Welcome to my own portfolio. Here are the compilations of the lectures, activiti
 
 In conclusion, the lectures provided significant learnings into different aspects of artificial intelligence, data analysis, and statistical modeling. These topics are essential for understanding the fundamentals of intelligent systems and their applications in real-world scenarios. 
 
-The lectures have been helpful in enhancing my understanding of key concepts in artificial intelligence, data analysis, and statistical modeling. By understanding the fundamentals discussed in the lectures, I have been able to apply these concepts effectively in my exercises and midterm examination. For instance, those information that I gained from the lectures on linear regression enabled me to analyze datasets and build predictive models for exercises, while the understanding of logistic regression empowered me to make informed decisions during the midterm exam. Overall, the lectures have not only enriched my theoretical knowledge but also provided practical skills that have proven invaluable in tackling various academic tasks.
+The lectures have been helpful in enhancing my understanding of key concepts in artificial intelligence, data analysis, and statistical modeling. By understanding the fundamentals discussed in the lectures, I have been able to apply these concepts effectively in my exercises and midterm examination. For instance, those information that I gained from the lectures on linear regression enabled me to analyze datasets and build predictive models for exercises, while the understanding of logistic regression empowered me to mak decisions during the examination. Overall, the lectures have not only enriched my theoretical knowledge but also provided practical skills that have proven invaluable in tackling various academic tasks.
 
 ---
