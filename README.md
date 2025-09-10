@@ -115,5 +115,4 @@ Welcome to my own portfolio. Here are the compilations of the lectures, activiti
 
 The lectures provided significant learnings into different aspects of artificial intelligence, data analysis, and statistical modeling. These topics are essential for understanding the fundamentals of intelligent systems and their applications in real environment.
 
-In addition to this, I have been able to apply these concepts effectively in my exercises and midterm examination. For instance, those information that I gained from the lectures on linear regression enabled me to analyze datasets and build predictive models for exercises, while the understanding of logistic regression empowered me to mak decisions during the examination. 
----
+In addition to this, I have been able to apply these concepts effectively in my exercises and midterm examination. For instance, those information that I gained from the lectures on linear regression enabled me to analyze datasets and build predictive models for exercises, while the understanding of logistic regression empowered me to mak decisions during the examination.
