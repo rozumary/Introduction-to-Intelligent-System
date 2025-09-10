@@ -3,7 +3,7 @@
 
 **CSEL-302 Portfolio**
 
-Welcome to my own portfolio. Here are the compilations of the lectures, activities, and midterm during our laboratory classes:
+Welcome to my own portfolio. Here are the compilations of the lectures, activities, and midterm exam during our laboratory classes:
 
 **Table of Contents**
 1. [Lecture Summary](#lecture-summary)
